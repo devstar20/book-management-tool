@@ -1,7 +1,6 @@
 <?php
-$a = 50;
+$a = 10;
 $b = 20;
-echo "this is staging";
-echo "this is index.php file ";
+echo "this is index.php file";
 
 ?>
